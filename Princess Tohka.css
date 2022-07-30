@@ -1,0 +1,90 @@
+.table {
+      float: right;
+      background-color: gray;
+}
+td{
+  width: 20%;
+
+}
+ th {
+   background-color: #185415;
+
+ }
+
+body {
+  background-color: green;
+
+}
+
+#gif1 {
+float: right;
+
+
+}
+
+#gif2 {
+    float: right;
+    margin-top: -120px;
+    position: relative;
+
+
+}
+#gif3 {
+  float:right;
+  position: relative;
+}
+#gif4 {
+  float: right;
+
+
+}
+
+#gif5 {
+  float: right;
+
+
+}
+
+#gif6 {
+  float: right;
+
+
+}
+
+#gif7 {
+  float: right;
+  margin-top: -10px;
+
+
+}
+
+#gif8 {
+  float: right;
+  margin-top: -100px;
+
+
+}
+
+#gif9 {
+  float: right;
+  margin-top: -200px;
+
+
+}
+
+#gif10 {
+  float: right;
+
+
+}
+
+#gif11 {
+  float: left;
+  position: relative; margin-right: 10px;
+
+}
+#gif12 {
+  float: right;
+
+
+}
